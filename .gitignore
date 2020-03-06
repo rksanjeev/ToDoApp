@@ -2,3 +2,5 @@
 db.sqlite
 migrations/*
 migrations/
+.idea/*
+.idea/
